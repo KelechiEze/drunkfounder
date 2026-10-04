@@ -1,0 +1,6 @@
+{
+  "name": "DOMINGO - Artisan Cold Pressed Wellness Elixirs",
+  "description": "Explore DOMINGO handcrafted organic cold-pressed elixirs with 360° bottle spin animation, interactive fruit overlays, and daily bundles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
